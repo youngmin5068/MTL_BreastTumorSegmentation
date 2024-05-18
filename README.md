@@ -1,4 +1,4 @@
-# InterpreSegNet
+# MTL Breast Tumor Segmentation
 
 
 Multi-task learning model for breast tumor segmentation and classification in breast MRI.
