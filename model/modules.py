@@ -8,7 +8,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import numpy as np
-from model.CBAM import Topt_CBAM
+from InterpreSegNet.model.Topt_CBAM import Topt_CBAM
 import model.tools as tools
 from torchvision.models.resnet import conv3x3
 
