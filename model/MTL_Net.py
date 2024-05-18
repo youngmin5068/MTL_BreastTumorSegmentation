@@ -5,9 +5,9 @@ import model.tools as tools
 import model.modules as m
 
 
-class InterpreSegNet(nn.Module):
+class MTL_Net(nn.Module):
     def __init__(self, parameters):
-        super(InterpreSegNet, self).__init__()
+        super(MTL_Net, self).__init__()
 
 
         self.experiment_parameters = parameters
