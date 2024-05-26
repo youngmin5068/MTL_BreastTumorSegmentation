@@ -21,3 +21,23 @@ By focusing on slices identified as containing tumors, this method enables more 
 
 Topt-CBAM is a variant of the Channel Attention Module in CBAM. 
 In the Channel Attention Module, it pooled only the top t% of pixel values for max pooling and average pooling to focus more on the important information.
+
+
+## Third Party Library
+
+torch==1.11.0
+albumentations==1.3.1
+einops==0.7.0
+glob2==0.7
+monai==1.3.0
+numpy==1.24.3
+opencv-python==4.9.0.80
+openpyxl==3.1.2
+pandas==2.0.3
+pillow==9.0.1
+pydicom==2.4.4
+pylibjpeg-libjpeg==2.0.0
+pylibjpeg==2.0.0
+scipy==1.10.1
+simpleitk==2.3.1
+timm==0.9.12
