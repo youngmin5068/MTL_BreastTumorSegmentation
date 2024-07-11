@@ -26,7 +26,9 @@ In the Channel Attention Module, it pooled only the top t% of pixel values for m
 ### Result
 ![스크린샷 2024-07-11 오후 4 33 03](https://github.com/youngmin5068/MTL_BreastTumorSegmentation/assets/61230321/afce9e02-88c1-4de4-9c3b-4be8ddd2a40d)
 
-![Uploading 스크린샷 2024-07-11 오후 4.33.37.png…]()
+![스크린샷 2024-07-11 오후 4 34 07](https://github.com/youngmin5068/MTL_BreastTumorSegmentation/assets/61230321/38f509e8-afb0-43a4-acef-d2e65b069b57)
+
+
 
 
 ## Third Party Library
